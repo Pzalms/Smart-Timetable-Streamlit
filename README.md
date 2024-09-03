@@ -71,7 +71,7 @@ The application is built using Streamlit for the web interface and SQLite for th
 
 1. **Start the Streamlit App:**
    ```bash
-   streamlit run app.py
+   streamlit run HOME.py
    ```
 
 2. **Open Your Web Browser:**
